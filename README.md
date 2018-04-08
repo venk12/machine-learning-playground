@@ -1,5 +1,6 @@
 # Machine Learning Playbook - DX Ball
-Making the computer learn to play the popular game DX Ball using machine learning algorithms
+Making the computer learn to play the popular game DX Ball using machine learning algorithms<br></br>
+<img src="https://media.giphy.com/media/dtt1g0H4Y1cnMEqJNE/giphy.gif" width="400" height="300"/>
 
 ## Before Getting Started
 This program requires the following to run smoothly:
