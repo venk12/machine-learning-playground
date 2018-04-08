@@ -1,0 +1,30 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "A file that describes the dependencies for the frontend of the game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Venki Krish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "ui-navbar": "^0.4.3"
+  },
+  "devDependencies": {
+    "package": "^1.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venk12/Machine-Learning-Playbook---DX-Ball.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "bugs": {
+    "url": "https://github.com/venk12/Machine-Learning-Playbook---DX-Ball/issues"
+  },
+  "homepage": "https://github.com/venk12/Machine-Learning-Playbook---DX-Ball#readme"
+}

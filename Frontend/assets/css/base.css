@@ -1,0 +1,22 @@
+* {
+	padding: 0; 
+	margin: 0; 
+}
+
+canvas { 
+  background: black;
+  display: block;
+  margin: 0 auto; 
+ }
+
+.trainOrTest {
+    position: absolute;
+    top: 1%;
+    font-family: calibri;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    left: 65%;
+    /* background-color: green; */
+    color: white;
+}
